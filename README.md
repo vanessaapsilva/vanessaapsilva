@@ -17,10 +17,10 @@
 
 ### Linguagens e Ferramentas
 
-<i class="devicon-mysql-plain-wordmark colored"></i>
-<i class="devicon-python-plain-wordmark colored"></i>
-<i class="devicon-anaconda-original-wordmark colored"></i>
-<i class="devicon-minitab-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" />
 
 
 
