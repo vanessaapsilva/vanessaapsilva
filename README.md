@@ -3,8 +3,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Estou trabalhando na Petrobrás
-- 🌱 Atualmente estou aprendendo Power BI e Python
-- 🤔 Posso ajudar com SAS, excel e espanhol
+- 🤔 Posso ajudar com SAS, Power BI e Python, excel e espanhol
 
 ### Redes Sociais:
 
